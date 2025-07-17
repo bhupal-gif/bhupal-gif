@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Bhupal Kummari
 **A passionate Java Developer from India**
 
-Email Me 👉 ✉️ **bhupalsmart@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **bhupalkummari3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** java & react
 - 🌱 **I’m currently learning:** java & react
